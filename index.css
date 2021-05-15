@@ -97,7 +97,7 @@ body {
 }
 .sheet2 {
   background-color: white;
-  margin-top: 50px;
+  margin-top: 70px;
   width: 10px;
   height: 150px;
   animation: fall 2s ease-out infinite;
@@ -105,7 +105,7 @@ body {
 }
 .collector {
   position: relative;
-  padding: 20px;
+  padding: 70px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -228,7 +228,7 @@ body {
 }
 @keyframes fall {
   0% {
-    margin-top: 50px;
+    margin-top: 70px;
   }
   100% {
     margin-top: 1000px;
