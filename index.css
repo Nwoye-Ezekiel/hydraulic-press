@@ -89,7 +89,7 @@ body {
   background-color: transparent;
 }
 .sheet1 {
-  margin-top: 50px;
+  margin-top: 70px;
   width: 10px;
   height: 150px;
   animation: compress 2s ease-out infinite;
@@ -105,7 +105,7 @@ body {
 }
 .collector {
   position: relative;
-  padding: 70px;
+  padding: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
