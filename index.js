@@ -3,4 +3,4 @@ setTimeout(function () {
   setInterval(function () {
     num.textContent = 1 + parseInt(num.textContent);
   }, 2000);
-}, 800);
+}, 500);
