@@ -93,7 +93,7 @@ body {
   width: 10px;
   height: 150px;
   animation: compress 2s ease-out infinite;
-  animation-delay: 1.2s;
+  animation-delay: 1.3s;
 }
 .sheet2 {
   background-color: white;
@@ -101,7 +101,7 @@ body {
   width: 10px;
   height: 150px;
   animation: fall 2s ease-out infinite;
-  animation-delay: 1.2s;
+  animation-delay: 1.3s;
 }
 .collector {
   position: relative;
